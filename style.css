@@ -8,9 +8,9 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #f9f9f9;
     color: #333;
-    padding-top: 50px; /* espaço para o cabeçalho fixo */
+    padding-top: 50px;
 }
 
 header {
@@ -59,12 +59,57 @@ section {
 h2 {
     color: #333;
     margin-bottom: 20px;
-    font-size: 24px;
+    font-size: 28px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.8;
 }
 
 ul {
     list-style-type: disc;
     margin-left: 20px;
+}
+
+/* Botões */
+button {
+    background-color: #ff6347;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #e5533c;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+form button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #555;
 }
 
 /* Estilo do rodapé */
@@ -87,5 +132,13 @@ footer p {
     nav ul li {
         display: block;
         margin-bottom: 10px;
+    }
+    
+    section {
+        padding: 30px 10px;
+    }
+
+    button {
+        width: 100%;
     }
 }
