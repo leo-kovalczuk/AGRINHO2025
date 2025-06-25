@@ -9,13 +9,13 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #2aff31;
     color: #333;
 }
 
 header {
-    background-color: #39d400;
-    color: rgb(13, 79, 1);
+    background-color: #154c02;
+    color: rgb(157, 157, 157);
     padding: 10px 0;
     text-align: center;
 }
