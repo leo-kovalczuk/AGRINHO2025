@@ -92,7 +92,7 @@ footer a:hover {
     text-decoration: underline;
 }
 .container-imagem{
-    border-radius: 0 0 0 0;
+    border-radius: 0 0 0 2;
     padding: 4px;
     display: flex;
     align-items: left;
