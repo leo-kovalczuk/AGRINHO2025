@@ -95,7 +95,7 @@ footer a:hover {
     align-items: center;
 }
 .imagem{
-    width: 60%;
+    width: 40%;
     height: 40%;
-       border-radius: 0 0 0 0;
+       border-radius: 8px;
 }
