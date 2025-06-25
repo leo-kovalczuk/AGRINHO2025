@@ -91,3 +91,8 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+.container-imagem{
+    border-radius: 0 0 0 0;
+    width: 50%;
+    padding: 4px;
+}
