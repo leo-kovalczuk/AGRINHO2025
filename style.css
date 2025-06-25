@@ -52,7 +52,7 @@ main {
 }
 
 section {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 section img {
@@ -94,7 +94,6 @@ footer a:hover {
     display: flex;
     align-items: center;
     font-size: 24px;
-    padding: 10px;
 }
 .imagem{
     width: 50%;
