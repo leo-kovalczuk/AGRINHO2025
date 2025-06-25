@@ -93,6 +93,7 @@ footer a:hover {
 .container-imagem{
     display: flex;
     align-items: center;
+    font-size: 24px;
 }
 .imagem{
     width: 40%;
