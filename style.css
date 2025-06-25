@@ -92,12 +92,12 @@ footer a:hover {
     text-decoration: underline;
 }
 .container-imagem{
-    border-radius: 0 0 0 0;
     padding: 4px;
     display: flex;
-    align-items: left;
+    align-items: center;
 }
 .container-imagem{
     width: 60%;
     height: 40%;
+       border-radius: 0 0 0 0;
 }
