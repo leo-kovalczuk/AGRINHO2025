@@ -93,14 +93,11 @@ footer a:hover {
 }
 .container-imagem{
     border-radius: 0 0 0 0;
-    width: 60%;
-    height: 40%;
     padding: 4px;
     display: flex;
     align-items: left;
 }
-.container-texto{
-    text-align: right;
-    display: flex;
-
+.container-imagem{
+    width: 60%;
+    height: 40%;
 }
