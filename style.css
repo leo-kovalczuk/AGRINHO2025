@@ -99,3 +99,8 @@ footer a:hover {
     display: flex;
     align-items: left;
 }
+.container-texto{
+    text-align: right;
+    display: flex;
+    
+}
