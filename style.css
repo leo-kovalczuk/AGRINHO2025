@@ -94,11 +94,12 @@ footer a:hover {
     display: flex;
     align-items: center;
     font-size: 24px;
+    padding: 10px;
 }
 .imagem{
     width: 50%;
     height: 50%;
-       border-radius: 8px;
+    border-radius: 8px;
 }
 h2{
     text-align: center;
