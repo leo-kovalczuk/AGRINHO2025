@@ -57,7 +57,8 @@ section img {
 }
 
 button {
-    background-color: #006400;
+    font-size: 38px;
+    background-color: #026100d1 ;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -70,7 +71,7 @@ button:hover {
 }
 
 footer {
-    background-color: #047b0e85;
+    background-color: #004406;
     color: white;
     text-align: center;
     padding: 10px;
