@@ -10,12 +10,12 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     background-color: #c0c0c0;
-    color: #000000 ;
+    color: #0a2500 ;
 }
 
 header {
     background-color: #026100d1;
-    color: rgb(0, 0, 0);
+    color: rgb(93, 204, 68);
     padding: 10px 0;
     text-align: center;
 }
