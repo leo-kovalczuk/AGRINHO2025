@@ -15,7 +15,7 @@ body {
 
 header {
     background-color: #5dcd41;
-    color: rgb(114, 181, 81);
+    color: rgb(255, 255, 255);
     padding: 10px 0;
     text-align: center;
 }
@@ -36,7 +36,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(126, 217, 103);
     text-decoration: none;
     font-size: 1.1em;
 }
