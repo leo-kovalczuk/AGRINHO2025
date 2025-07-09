@@ -45,12 +45,6 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
-
-main {
-    padding: 20px;
-    margin: 0 auto;
-}
-
 section {
     margin-bottom: 20px;
 }
@@ -76,14 +70,14 @@ button:hover {
 }
 
 footer {
-    background-color: #333;
+    background-color: #333333;
     color: white;
     text-align: center;
     padding: 10px;
 }
 
 footer a {
-    color: #047e04;
+    color: #02c302;
     text-decoration: none;
 }
 
